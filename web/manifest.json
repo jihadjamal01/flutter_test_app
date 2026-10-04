@@ -1,0 +1,12 @@
+{
+  "name": "flutter_test_app",
+  "short_name": "test_app",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#6366F1",
+  "theme_color": "#6366F1",
+  "description": "A clean modern Flutter test app.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": []
+}
